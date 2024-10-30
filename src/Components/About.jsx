@@ -39,7 +39,7 @@ function About() {
                         <p className="text-lg text-left text-white">
                             Hello! I’m <span className="font-semibold">Devashish Nagpal</span>, an undergraduate student at
                             JK Lakshmipat University (JKLU). Currently pursuing my degree, I am passionate about technology and innovation,
-                            constantly seeking to enhance my skills in programming and development. 
+                            constantly seeking to enhance my skills in programming and Machine Learning. 
                         </p>
                     </div>
                 </div>
